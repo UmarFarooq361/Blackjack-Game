@@ -1,0 +1,10 @@
+.card{
+    background-image: url("card-img.jpg");
+    background-size: cover;
+}
+
+.btn-css{
+    background: rgb(212, 167, 16);
+    color: rgb(23, 133, 65);
+    font-weight: bold;
+}
